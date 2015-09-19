@@ -6,7 +6,7 @@ events.bind('nameOfEvent',eventCallback);
 ```
 
 
-### To emit en event, use...
+### To emit an event, use...
 ```
 events.emit('nameOfEvent');
 ```
